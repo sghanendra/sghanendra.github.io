@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Spiking Neural Network
+description: Emulating device characteristics
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: engineering
 ---
 
 Every project has a beautiful feature showcase page.
