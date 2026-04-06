@@ -1,10 +1,10 @@
 cv:
   name: Ghanendra Singh
   label: PhD Researcher
-  email: einstein@example.com
+  email: 22ghanendra@gmail.com
   location: Graz, Austria
   image: ""
-  summary: An Indian born Computational Neuroscientist
+  summary: Computational Neuroscientist
 
   social_networks:
     - network: X
@@ -17,33 +17,35 @@ cv:
   address:
     street: Stremayrgasse 16
     city: Graz
-    region: Styria
+    #region: 
     postalCode: 8010
     countryCode: Austria
 
   sections:
     Education:
-      - institution: TU Graz
+      - institution: Institute of Neural Engineering, TU Graz
         location: Graz, Austria
-        url: https://www.uzh.ch/
-        area: Computational Glioscience
-        studyType: PhD
+        url: https://www.tugraz.at/en/home
+        area: Computational Glioscience, Astrocytes, 
+        studyType: PhD Researcher (BME)
         start_date: 2024
         end_date: 2026
         score: ""
         courses: "Astrocytic Leaky Blood Brain Barrier"
         highlights:
-          - Computational Model of Astrocytic Leaky Blood Brain Barrier
+          - Modeling spontaneous calcium dynamics in astrocytes endfeets.
+          
 
       - institution: IIIT Delhi
         location: Delhi, India
+        url: https://www.iiitd.ac.in/
         area: Computational Biology
-        studyType: Masters of Technology (M.Tech)
+        studyType: Masters of Technology
         start_date: 2019
         end_date: 2021
         highlights:
-          - Modeling the dynamics of Telomere End Replication Problem
-
+          - Modeling the dynamics of telomere end replication problem.
+          - Mechanistic model of DNA replication fork in yeast.
 
     Experience:
       - company: Indian Institute of Technology
@@ -53,61 +55,72 @@ cv:
         end_date: 2024
         summary: Artificial Intelligence
         highlights:
-          - Edge AI for Self driving vehicles
-          - Spiking Neural Network for Neuromrohpic Computing
+          - Edge artificial intelligence for autonomous vehicles
+          - Spiking neural network for neuromrohpic computing
 
       - company: Yenopoya Technology Incubator
         position: BIRAC Sparsh Fellow
-        location: Karnataka, India
+        location: Mangaluru, India
         start_date: 2022
         end_date: 2023
         highlights:
-          - Developed a clinical notes documentation system
+          - Developed a clinical notes documentation system for interoperability.
+          - Capturing unstructuring clinical data into structured data.
 
       - company: Shilps Sciences
         position: Software Development Engineer
-        location: Bengaluru, Karnataka
+        location: Bengaluru, India
         start_date: 2022
-        end_date: 2020
+        end_date: 2022
+        highlights:
+          - Developed image analysis application for droplet microfluidics.
+          - Analysis of atomic force microscopy (AFM) images using Gwyddion
+
 
       - company: Indian Institute of Science
         position: Research Assistant
         location: Bengaluru, India
         start_date: 2021
         end_date: 2022
+        highlights:
+          - Population dynamics with epigenetic switching of EMT in cancer.
+          - Adaptive therapy modeling using stochastic Lotka Volterra models.
 
       - company: Gamasome Interactive
         position: Hardware Design Intern
         location: Bengaluru, India
         start_date: 2017
         end_date: 2016
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed a hardware for real time facial motion capture system.
+          - Designed an application for tracking markerbased using python.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    # Awards:
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+    #   - title: Max Planck Medal
+    #     authors:
+    #       - "German Physical Society"
+    #     date: 2029
+    #     awarder: German Physical Society
+    #     summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -138,7 +151,7 @@ cv:
       - name: Python
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Quantum Teleportation"
 
     Languages:
       - name: Hindi
@@ -150,23 +163,18 @@ cv:
     Interests:
       - name: Computational Neuroscience, Astrocytes, Working Memory, Neuromorphic Computing, Memristors
         icon: fa-solid fa-tag
-        keywords: "Dynamical Systems, Spiking Neural Network, "
+        keywords: "Dynamical Systems, Spiking Neural Network,Systems Biology "
 
     Certificates:
       - name: Principles of Synthetic Biology
-        date: 2020-01-01
+        date: 2020-09-09
         issuer: MIT
         icon: fa-solid fa-location-dot
 
       - name: Physics of Biological Systems
-        date: 2020-01-01
+        date: 2020-04-01
         issuer: NPTEL
         icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
 
     Projects:
       - name: Abstract Studio
@@ -178,10 +186,10 @@ cv:
         end_date: 2019-04-01
 
     References:
-      - name: Professor John Doe
+      - name: Dr. AL
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: SS 
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. GB
+        icon: fa-solid fa-laptop
+        reference: ID
