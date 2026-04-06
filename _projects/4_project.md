@@ -1,14 +1,14 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Edge.ai
+description: ESP32S3 and Jetson Nano
 img:
 importance: 3
-category: fun
+category: engineering
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
+Running TinyML on ESP32S3
+
 Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
