@@ -212,6 +212,7 @@ exclude:
   - _pages/about_einstein.md
   - _pages/books.md
   - _pages/dropdown.md
+  - _news/announcement_*.md
   
 keep_files:
   - CNAME
