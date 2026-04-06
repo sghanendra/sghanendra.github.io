@@ -5,7 +5,7 @@ permalink: /projects/
 description: At the interface of research and engineering projects.
 nav: true
 nav_order: 3
-display_categories: [research, fun]
+display_categories: [research, engineering]
 horizontal: false
 ---
 
