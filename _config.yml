@@ -206,7 +206,6 @@ exclude:
   - vendor
   - _pages/blog.md
   - _news/announcement_*.md
-  - _projects/?_project.md  
   - _pages/teaching.md
   - _pages/repositories.md
   - _pages/profiles.md
