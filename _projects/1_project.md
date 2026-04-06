@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: See I'm an Arc
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: research
