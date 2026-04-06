@@ -205,7 +205,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/blog.md
-  - _news/announcement_*.md
+  
   - _pages/teaching.md
   - _pages/repositories.md
   - _pages/profiles.md
