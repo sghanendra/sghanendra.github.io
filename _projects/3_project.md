@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Cortical Field Model
+description: Complex Spiral Traveling Waves
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://www.biorxiv.org/content/10.64898/2026.01.06.698037v3
 importance: 3
 category: research
 ---
