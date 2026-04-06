@@ -413,9 +413,9 @@ ninja.data = [{
           description: "Complex Spiral Traveling Waves",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-edge-ai",
+          title: 'Edge.ai',
+          description: "ESP32S3 and Jetson Nano",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
