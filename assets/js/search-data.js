@@ -418,9 +418,9 @@ ninja.data = [{
           description: "ESP32S3 and Jetson Nano",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-spiking-neural-network",
+          title: 'Spiking Neural Network',
+          description: "Emulating device characteristics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
