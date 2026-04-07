@@ -4,7 +4,7 @@ cv:
   email: 22ghanendra@gmail.com
   location: Graz, Austria
   image: ""
-  summary: Computational Neuroscientist
+  summary: Systems Neuroscientist
 
   social_networks:
     - network: X
@@ -46,6 +46,15 @@ cv:
         highlights:
           - Modeling the dynamics of telomere end replication problem.
           - Mechanistic model of DNA replication fork in yeast.
+
+      - institution: SCE Bangalore
+        location: Bengaluru, India
+        area: Electronics and Communication
+        studyType: Bachelors of Engineering
+        start_date: 2012
+        end_date: 2016
+        highlights:
+
 
     Experience:
       - company: TU Graz
@@ -133,10 +142,10 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Skills:
-      - name: Python, XPPAUT
+      - name: Python, Embedded C,
         #level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Jupyter notebook, Scipy, Numpy, OpenCV"
+        keywords: "Jupyter notebook, Pytorch, Brian2, OpenCV, ImageJ, Gwyddion, Arduino, Raspberry-Pi, EagleCad"
 
     Languages:
       - name: Hindi
@@ -144,11 +153,14 @@ cv:
 
       - name: English
         summary: "Fluent"
+      
+      - name: Deutch
+        summary: "Learning A1 Level"
 
     Interests:
-      - name: Computational Neuroscience, Astrocytes, Working Memory
+      - name: Computational Neuroscience, Astrocytes, Working Memory, Aging, Cancer
         icon: fa-solid fa-tag
-        keywords: "Dynamical Systems, Spiking Neural Network, Systems Biology"
+        keywords: "Dynamical Systems, Spiking Neural Network, Systems Biology, Machine Learning, RNNs, Neuromorphic Computing"
 
     Certificates:
       - name: Principles of Synthetic Biology
