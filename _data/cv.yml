@@ -49,7 +49,7 @@ cv:
 
     Experience:
       - company: TU Graz
-        position: AI Researcher
+        position: PhD Researcher
         location: Graz, Austria
         start_date: 2024
         end_date: 2026
@@ -171,10 +171,18 @@ cv:
         end_date: 2019-04-01
 
     References:
-      - name: Dr. AL
+      - name: Dr. Andre Zeug
         icon: fa-solid fa-laptop
-        reference: SS 
+        reference: MHH, Hannover, Germany 
 
-      - name: Dr. GB
+      - name: Dr. Ashwin Lal
         icon: fa-solid fa-laptop
-        reference: ID
+        reference: MAKR Microsystems, India
+
+      - name: Dr. Ganesh Bagler
+        icon: fa-solid fa-laptop
+        reference: IIIT Delhi
+
+      - name: Dr. Sonia Baloni Ray
+        icon: fa-solid fa-laptop
+        reference: IIIT Delhi
