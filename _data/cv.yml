@@ -48,6 +48,16 @@ cv:
           - Mechanistic model of DNA replication fork in yeast.
 
     Experience:
+      - company: TU Graz
+        position: AI Researcher
+        location: Graz, Austria
+        start_date: 2024
+        end_date: 2026
+        summary: Computational modeling of Astrocytic Leaky BBB
+        highlights:
+          - Modelled spontaneous and sparse calcium microdomains.
+          - Calcium dynamics across 3D synthetic compartment models.
+          
       - company: Indian Institute of Technology
         position: AI Researcher
         location: Hyderabad, India
