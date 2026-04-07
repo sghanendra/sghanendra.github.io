@@ -36,4 +36,4 @@ I worked on mathematical modeling of complex spontaneous calcium microdomain dyn
 
 Conferences
 * 📰 NICE 2025: Switching dynamics of working memory [Youtube](https://www.youtube.com/watch?v=zVDuk00blAQ)
-* Euroglia 2025: Poster on Computational Modeling of spontaneous Calcium microdomains in Astrocyte Endfeets.
+* Euroglia 2025: Poster - Modeling spontaneous calcium microdomains in Astrocyte Endfeets.
