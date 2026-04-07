@@ -8,7 +8,7 @@ cv:
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: 22ghanendra
     - network: GitHub
       username: example
     - network: LinkedIn
@@ -148,7 +148,7 @@ cv:
     Interests:
       - name: Computational Neuroscience, Astrocytes, Working Memory
         icon: fa-solid fa-tag
-        keywords: "Dynamical Systems, Spiking Neural Network,Systems Biology "
+        keywords: "Dynamical Systems, Spiking Neural Network, Systems Biology"
 
     Certificates:
       - name: Principles of Synthetic Biology
@@ -173,11 +173,11 @@ cv:
     References:
       - name: Dr. Andre Zeug
         icon: fa-solid fa-laptop
-        reference: [MHH](https://www.mhh.de/zeug), Hannover, Germany 
+        reference: MHH, Hannover, Germany 
 
       - name: Dr. Ashwin Lal
         icon: fa-solid fa-laptop
-        reference: [MAKR Microsystems](https://makrmicro.com/), India
+        reference: MAKR Microsystems, India
 
       - name: Dr. Ganesh Bagler
         icon: fa-solid fa-laptop
