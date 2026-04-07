@@ -26,10 +26,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Currently Looking for academic or industry PhD/Research positions 2026.
+🚨: Currently Looking for academic or industry PhD/Research positions 2026.
 
-Research Interest
-* Computational Neuroscience, Astrocytes, Aging
+Research Interest 
+* Computational Neuroscience, Astrocytes, Aging 🧠
 * Neuromorphic Computing, Memristors, Working Memory
 
 I worked on mathematical modeling of complex spontaneous calcium dynamics in astrocytes at INE, [TU Graz](https://www.tugraz.at/en/home). Earlier I worked as an AI researcher at [IIT Hyderabad](https://www.iith.ac.in/). Previously as a Software Development Engineer in a life sciences start-up, Shilps Sciences at Bangalore and as a Research Assistant in Cancer Systems Biology (CSB) lab at IISc, Bangalore. I finished my masters in Computational Biology from [IIIT Delhi](https://www.iiitd.ac.in/) and bachelors in electronics and communication from Visvesvaraya Technological University (VTU).
+
+* NICE 2025: Late Breaking News - Switching dynamics of working memory ▶️ [Youtube](https://www.youtube.com/watch?v=zVDuk00blAQ)
+* 
