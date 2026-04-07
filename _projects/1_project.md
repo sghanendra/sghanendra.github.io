@@ -8,9 +8,13 @@ category: research
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Choosing the right computing model for cortical spiking neurons is crucial from computing perspective.
+Which one to choose depends on the type of problem. [Izhikevich et. al, IEEE Transactions, 2004](https://www.izhikevich.org/publications/whichmod.pdf)
+
+No. of FLOPS required to simulate the model in 1ms time span is given below.
+
+Further Wilson-Cowan rate mode are simple yet powerful enough to study population dynamics of excitatory and inhibitory neurons.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
