@@ -173,11 +173,11 @@ cv:
     References:
       - name: Dr. Andre Zeug
         icon: fa-solid fa-laptop
-        reference: MHH, Hannover, Germany 
+        reference: [MHH](https://www.mhh.de/zeug), Hannover, Germany 
 
       - name: Dr. Ashwin Lal
         icon: fa-solid fa-laptop
-        reference: MAKR Microsystems, India
+        reference: [MAKR Microsystems](https://makrmicro.com/), India
 
       - name: Dr. Ganesh Bagler
         icon: fa-solid fa-laptop
