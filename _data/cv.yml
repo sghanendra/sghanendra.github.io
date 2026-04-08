@@ -143,10 +143,10 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Skills:
-      - name: Python, Embedded C,
+      - name: Python, Embedded C, C++
         #level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Jupyter notebook, Pytorch, Brian2, OpenCV, ImageJ, Gwyddion, Arduino, Raspberry-Pi, EagleCad"
+        keywords: "Jupyter notebook, Pytorch, Brian2, OpenCV, ImageJ, Gwyddion, Arduino, Raspberry-Pi, EagleCad, Esp32C3"
 
     Languages:
       - name: Hindi
@@ -155,7 +155,7 @@ cv:
       - name: English
         summary: "Fluent"
       
-      - name: Deutch
+      - name: Deutsch
         summary: "Learning A1 Level"
 
     Interests:
@@ -164,9 +164,34 @@ cv:
         keywords: "Dynamical Systems, Spiking Neural Network, Systems Biology, Machine Learning, RNNs, Neuromorphic Computing"
 
     Certificates:
+      - name: MemrisTec Summer School
+        date: 2025-10-03
+        issuer: Sevilla, Spain
+        icon: fa-solid fa-location-dot
+
+      - name: International Astrocyte School
+        date: 2025-04-13
+        issuer: IAS, Italy
+        icon: fa-solid fa-location-dot
+
+      - name: Computational Approaches to Memory and Plasticity
+        date: 2024-07-17
+        issuer: CAMP, IISER Pune
+        icon: fa-solid fa-location-dot
+
+      - name: Neuro AI
+        date: 2024-07-27
+        issuer: Neuromatch Academy
+        icon: fa-solid fa-location-dot
+
+      - name: Computational Neuroscience
+        date: 2023-07-28
+        issuer: Neuromatch Academy
+        icon: fa-solid fa-location-dot
+
       - name: Principles of Synthetic Biology
         date: 2020-09-09
-        issuer: MIT
+        issuer: MIT, edx
         icon: fa-solid fa-location-dot
 
       - name: Physics of Biological Systems
@@ -186,16 +211,16 @@ cv:
     References:
       - name: Dr. Andre Zeug
         icon: fa-solid fa-laptop
-        reference: [MHH](https://www.mhh.de/zeug), Hannover, Germany 
+        reference: MHH, Hannover, Germany 
 
       - name: Dr. Ashwin Lal
         icon: fa-solid fa-laptop
-        reference: [MAKR Microsystems](https://makrmicro.com/), India
+        reference: MAKR Microsystems, India
 
       - name: Dr. Ganesh Bagler
         icon: fa-solid fa-laptop
-        reference: IIIT Delhi
+        reference: IIIT Delhi, India
 
       - name: Dr. Sonia Baloni Ray
         icon: fa-solid fa-laptop
-        reference: IIIT Delhi
+        reference: IIIT Delhi, India
