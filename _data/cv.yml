@@ -34,6 +34,8 @@ cv:
         courses: "Astrocytic Leaky Blood Brain Barrier"
         highlights:
           - Modeling spontaneous calcium dynamics in astrocytes.
+          - Computational Intelligence Seminars
+          - Non-linear Signal Processing (P)
           
 
       - institution: IIIT Delhi
@@ -49,6 +51,7 @@ cv:
 
       - institution: SCE Bangalore
         location: Bengaluru, India
+        url: https://www.sapthagiri.edu.in/
         area: Electronics and Communication
         studyType: Bachelors of Engineering
         start_date: 2012
@@ -109,8 +112,8 @@ cv:
       - company: Gamasome Interactive
         position: Hardware Design Intern
         location: Bengaluru, India
-        start_date: 2017
-        end_date: 2016
+        start_date: 2016
+        end_date: 2017
         highlights:
           - Developed a real time facial motion capture system.
           - Designed an application GUI using python.
