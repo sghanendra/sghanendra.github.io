@@ -423,9 +423,9 @@ ninja.data = [{
           description: "Emulating device characteristics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-self-driving-vehicles",
-          title: 'Self Driving Vehicles',
-          description: "Navigation",
+            },},{id: "projects-xplainable-rl",
+          title: 'Xplainable RL',
+          description: "Self Driving Vehicles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
