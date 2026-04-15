@@ -1,15 +1,31 @@
 ---
 layout: page
-title: Self Driving Vehicles
-description: Navigation
+title: Xplainable RL
+description: Self Driving Vehicles
 img:
 importance: 4
 category: engineering
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**XRL**: Explainable Reinforcement Learning for Autonomous Driving
+
+Problem: Going from Planning to Control [(Text based) Challenge] in a vision language model.
+* VLAM = VLM + A (action using DL/RL framework)
+* Running optimized VLMs on edge deivces.
+
+**Requirement**: How to obtain an interpretable navigation policy for intelligent driving agents trained using world
+model with explainable RL for autonomous driving in real world setting (at action level).
+
+* Training agents on World Models (Internal WM) using RL/IL.
+* Existing explainable AI (XAI): Vision Language Action Models (VLAMs) techniques
+* does not explain the underlying “action” driving policy for agents behavior.
+* Require explainable RL for interpretable features, policy and learning process
+
+Why?
+
+* Current: Perception architectures based on explainable machine learning.
+* Transition: LLMs (Large Language Models) → LWMs (Large World Models)
+* Future: Cognitive Architectures based on explainable reinforcement learning.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -40,12 +56,19 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Why XRL?
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Explainable reinforcement learning is an emerging subfield of explainable ML.
+The goal of XRL is to elucidate the decision-making process of reinforcement learning (RL)
+agents in sequential decision-making settings. <a href="https://dl.acm.org/doi/10.1145/3616864">Explainable RL Review</a> Milani, Fie Fang CMU,2024) To understand: What the agents will do and why. A novel taxonomy for organizing the XRL.
+Three high-level categories:
+* ● Feature Importance,
+* ● Learning process and Markov decision process, (LPM) and
+* ● Policy-level (PL)
+
+Why? RL is combined with the generalization and representational power of deep neural
+networks, which is often required to achieve the desired performance on these tasks.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
