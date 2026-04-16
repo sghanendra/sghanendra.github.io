@@ -211,7 +211,7 @@ exclude:
   - _pages/books.md
   - _pages/dropdown.md
   - _pages/news.md
-  #- _pages/projects.md
+  - _pages/projects.md
   
   
 keep_files:
