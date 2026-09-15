@@ -1,10 +1,10 @@
 cv:
   name: Ghanendra Singh
-  label: PhD Researcher
+  label: Independent Researcher
   email: 22ghanendra@gmail.com
   location: Graz, Austria
   image: ""
-  summary: Systems Neuroscientist
+  summary: Computational Neuroscience, Dynamical Systems, Neuromorphic Computing, Neuro AI
 
   social_networks:
     - network: X
@@ -27,7 +27,7 @@ cv:
         location: Graz, Austria
         url: https://www.tugraz.at/en/home
         area: Computational Glioscience, Astrocytes, 
-        studyType: PhD Researcher (BME)
+        studyType: Research Assistant
         start_date: 2024
         end_date: 2026
         score: ""
@@ -62,7 +62,7 @@ cv:
 
     Experience:
       - company: TU Graz
-        position: PhD Researcher
+        position: Research Assistant
         location: Graz, Austria
         start_date: 2024
         end_date: 2026
@@ -146,7 +146,7 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Skills:
-      - name: Python, Embedded C, C++
+      - name: Python, C, MATLAB, AUTO
         #level: Master
         icon: fa-solid fa-hashtag
         keywords: "Jupyter notebook, Pytorch, Brian2, OpenCV, ImageJ, Gwyddion, Arduino, Raspberry-Pi, EagleCad, Esp32C3"
