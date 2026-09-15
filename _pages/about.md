@@ -29,11 +29,12 @@ latest_posts:
 🚨: Currently Looking for academic or industry PhD/Research positions 2026.
 
 Research Interest 
-* 🧠: Computational Neuroscience, Astrocytes, Aging
-* 🔋: Neuromorphic Computing, Memristors, Working Memory 💭
+* 🧠: Computational Neuroscience, Dynamical Systems
+* 🌀: Cortical Traveling Waves
+* 🔋: Neuromorphic Computing, Memristor modeling, Working Memory 💭
 
 I worked on mathematical modeling of complex spontaneous calcium microdomain dynamics in fine astrocyte endfeets at INE, [TU Graz](https://www.tugraz.at/en/home). Earlier I worked as an AI researcher at [IIT Hyderabad](https://www.iith.ac.in/). Previously as a Software Development Engineer in a life sciences start-up 🚀, Shilps Sciences at Bangalore and as a Research Assistant in Cancer Systems Biology (CSB) lab at IISc, Bangalore. I finished my masters 🎓 in Computational Biology from [IIIT Delhi](https://www.iiitd.ac.in/) and bachelors in electronics and communication ⚙️ from Visvesvaraya Technological University (VTU).
 
-Conferences
+Conferences / Summer School
+* ⚡ Talk 2026: Cortical Field Model of Complex Traveling Waves [Youtube](https://www.youtube.com/watch?v=8oE9foV8Pcw&t=145s)
 * 📰 NICE 2025: Switching dynamics of working memory [Youtube](https://www.youtube.com/watch?v=zVDuk00blAQ)
-* Euroglia 2025: Poster - Modeling spontaneous calcium microdomains in Astrocyte Endfeets.
