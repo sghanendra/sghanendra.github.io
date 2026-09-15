@@ -23,21 +23,6 @@ cv:
 
   sections:
     Education:
-      - institution: Institute of Neural Engineering, TU Graz
-        location: Graz, Austria
-        url: https://www.tugraz.at/en/home
-        area: Computational Glioscience, Astrocytes, 
-        studyType: Research Assistant
-        start_date: 2024
-        end_date: 2026
-        score: ""
-        courses: "Astrocytic Leaky Blood Brain Barrier"
-        highlights:
-          - Modeling spontaneous calcium dynamics in astrocytes.
-          - Computational Intelligence Seminars
-          - Non-linear Signal Processing (P)
-          
-
       - institution: IIIT Delhi
         location: Delhi, India
         url: https://www.iiitd.ac.in/
@@ -70,6 +55,7 @@ cv:
         highlights:
           - Modelled spontaneous and sparse calcium microdomains.
           - Calcium dynamics across 3D synthetic compartment models.
+          - Non-linear Signal Processing (P)
           
       - company: Indian Institute of Technology
         position: AI Researcher
