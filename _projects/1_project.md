@@ -2,7 +2,7 @@
 layout: page
 title: See I'm an Arc
 description: 
-img: assets/img/12.jpg
+img: assets/img/publication_preview/cortical-wave.gif
 importance: 1
 category: research
 related_publications: true
